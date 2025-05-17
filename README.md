@@ -1,3 +1,3 @@
 # Latentrick.com
 
-<img src="Office.jfif" alt="Office" width="500" height="600">
+<img src="Office.jfif" alt="Office" width="1000" height="600">
