@@ -1,1 +1,2 @@
-# Latentrick
+# Latentrick.com
+
